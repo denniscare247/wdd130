@@ -22,7 +22,7 @@ main section {
 }
 #background {
     height: 725px;
-    background-color: #285071;
+    background-color: #542871;
     grid-column: 1/11;
     grid-row: 4/9;
 }
